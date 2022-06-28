@@ -1,4 +1,6 @@
-**CMPT 370 Project**
+# CMPT 370 Project
+
+# View Project Presentation - [View Presentation](https://github.com/KarmaChild/Hotel-Room-Booking-System/blob/main/32.pdf)
 
 DoubleHappy (Group 32)
 
